@@ -1,0 +1,2 @@
+# placiasdataSC
+Meu Portfólio Pessoal
